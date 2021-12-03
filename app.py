@@ -15,7 +15,7 @@ import shutil
 import io
 import numpy as np
 import ast
-import cv2
+#import cv2
 import os
 from tqdm.auto import tqdm
 import shutil as sh
@@ -33,7 +33,7 @@ import os
 import sys
 from pathlib import Path
 
-import cv2
+#import cv2
 import torch
 import torch.backends.cudnn as cudnn
 
